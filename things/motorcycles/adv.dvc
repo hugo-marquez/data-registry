@@ -3,3 +3,4 @@ outs:
   size: 9041
   nfiles: 1
   path: adv
+  remote: things
