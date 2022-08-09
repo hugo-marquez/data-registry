@@ -1,2 +1,4 @@
-['remote "motorcycles"']
-    url = s3://dvc-data-registry-test/things/motorcycles
+['remote "motorcycles-adv"']
+    url = s3://dvc-data-registry-test/things/motorcycles/adv
+['remote "motorcycles-scooter"']
+    url = s3://dvc-data-registry-test/things/motorcycles/scooter

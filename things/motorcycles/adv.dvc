@@ -3,4 +3,4 @@ outs:
   size: 9041
   nfiles: 1
   path: adv
-  remote: motorcycles
+  remote: motorcycles-adv
