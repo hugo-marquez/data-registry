@@ -1,0 +1,2 @@
+['remote "things-motorcycles-adv"']
+    url = s3://dvc-data-registry-test/animals/things/motorcycles/adv
