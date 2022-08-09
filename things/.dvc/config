@@ -1,0 +1,4 @@
+[core]
+    remote = things
+['remote "things"']
+    url = s3://dvc-data-registry-test/things
