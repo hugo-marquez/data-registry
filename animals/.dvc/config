@@ -1,0 +1,2 @@
+['remote "domestic"']
+    url = s3://dvc-data-registry-test/animals/domestic
