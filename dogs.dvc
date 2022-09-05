@@ -1,0 +1,5 @@
+outs:
+- md5: 587bfb84dd4ea84c0215fc27adb0fae8.dir
+  size: 5008
+  nfiles: 2
+  path: dogs
